@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_ws/devel
+
+Name: speak_pkg
+Description: Description of speak_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

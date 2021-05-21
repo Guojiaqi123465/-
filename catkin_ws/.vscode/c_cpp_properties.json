@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/robot/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/robot/catkin_ws/src/cruise_sr_pkg/include/**",
+                "/home/robot/catkin_ws/src/face_pkg/include/**",
+                "/home/robot/catkin_ws/src/behavior_pkg/include/**",
+                "/home/robot/catkin_ws/src/image_pkg/include/**",
+                "/home/robot/catkin_ws/src/iai_kinect2/kinect2_bridge/include/**",
+                "/home/robot/catkin_ws/src/iai_kinect2/kinect2_calibration/include/**",
+                "/home/robot/catkin_ws/src/iai_kinect2/kinect2_registration/include/**",
+                "/home/robot/catkin_ws/src/lidar_pkg/include/**",
+                "/home/robot/catkin_ws/src/my_nav_package/include/**",
+                "/home/robot/catkin_ws/src/pc_pkg/include/**",
+                "/home/robot/catkin_ws/src/speak_pkg/include/**",
+                "/home/robot/catkin_ws/src/sr_pkg/include/**",
+                "/home/robot/catkin_ws/src/vel_pkg/include/**",
+                "/home/robot/catkin_ws/src/waterplus_map_tools/include/**",
+                "/home/robot/catkin_ws/src/wp_pkg/include/**",
+                "/home/robot/catkin_ws/src/wpb_home/wpb_home_bringup/include/**",
+                "/home/robot/catkin_ws/src/wpb_home/wpb_home_tutorials/include/**",
+                "/home/robot/catkin_ws/src/wpb_home/wpbh_local_planner/include/**",
+                "/home/robot/catkin_ws/src/xfyun_kinetic/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

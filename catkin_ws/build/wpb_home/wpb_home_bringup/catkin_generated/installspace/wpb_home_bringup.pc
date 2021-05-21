@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_ws/install
+
+Name: wpb_home_bringup
+Description: Description of wpb_home_bringup
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

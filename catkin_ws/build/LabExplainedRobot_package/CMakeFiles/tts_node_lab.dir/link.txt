@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/tts_node_lab.dir/src/tts_node_lab.cpp.o  -o /home/robot/catkin_ws/devel/lib/LabExplainedRobot_package/tts_node_lab 

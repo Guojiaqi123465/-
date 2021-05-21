@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- Run aplay_server -->
+    <node pkg="aplay_pkg" type="aplay_server" name="aplay_server" output="screen"/>
+
+</launch>
